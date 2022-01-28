@@ -1,0 +1,13 @@
+{
+    "java.project.outputPath": "bin",
+    "java.project.sourcePaths": [
+        "src\\Dictionary",
+        "src"
+    ],
+    "java.format.settings.url": ".vscode/eclipse-java-google-style.xml",
+    "[java]": {
+        "editor.insertSpaces": false,
+        "editor.autoIndent": "advanced",
+        "editor.cursorBlinking": "smooth",
+    }
+}
